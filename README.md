@@ -1,9 +1,9 @@
-# Ansible Role mysql-client
+# Ansible Role MySQL Client
 
 Library of Ansible plugins and roles for deploying various services.
 See [ansible-roles](https://github.com/davidfischer-ch/ansible-roles) for additional documentation.
 
-This repository hosts the role mysql-client and may depend of other roles and plugins of the library.
+This repository hosts the role MySQL Client and may depend of other roles and plugins of the library.
 
 ## Dependencies
 
